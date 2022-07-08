@@ -79,6 +79,7 @@ body {
   border-radius: 5px;
   line-height: 2.5;
   color: hsl(204, 43%, 93%);
+  font-size:20px;
 }
 .attribution {
   font-size: 11px;
